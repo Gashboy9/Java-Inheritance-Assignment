@@ -49,4 +49,13 @@ class Square extends Rectangle{
 		super(s, s);
 	}
 	
+	
+	
+//	public double area(double s) {
+//	double result = s * s;
+//	//System.out.println("Area of rectangle is: "+result);
+//	return result;
+//	}
+	
+	
 }
